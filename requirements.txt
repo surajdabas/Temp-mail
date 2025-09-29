@@ -1,11 +1,3 @@
-# Core bot framework
 python-telegram-bot==20.6
-
-# Temp mail API wrapper
 pymailtm==1.0.3
-
-# HTTP library (used internally by telegram + pymailtm)
 httpx==0.27.0
-
-# Optional: logging is built-in, but coloredlogs can help readability
-coloredlogs==15.0.1
